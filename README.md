@@ -1,2 +1,2 @@
 # hello-world
-just follow the guide now
+just follow the guide now, try to figure out how this work
